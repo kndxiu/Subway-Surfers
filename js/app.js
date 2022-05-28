@@ -1,7 +1,6 @@
 window.addEventListener("click", function(){
     setTimeout(() => {
         document.querySelector("audio").play();
-        document.click();
     }, 250);
 })
 
